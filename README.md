@@ -1,1 +1,2 @@
-# Anvesha_2025_Science_Expo_qSVM_Project
+# Quantum Support Vector Machine -- Anvesha 2025
+* By Debashis Saikia and Avinash Chauhan *
